@@ -2,12 +2,29 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Git & Github training exercises for when interacting with a repository that is not yours. 
-## How to submit your changes to this repo with Github UI
-Watch this video to learn how to add content to a repo that is not yours, through the Github UI: [YouTube tutorial](https://www.youtube.com/watch?v=2X1FjFqIwIY).
+Git & Github training exercises for when interacting with a repository that is not yours.
 
-## Github markdown resources
-This resource tells you [how to format content using github markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) and you can also click this to [download github markdown cheat sheet in pdf](https://ifycode.github.io/git-github-training/markdown-cheatsheet.pdf).
+## Introduction
+- Video: Introduction
+## Part 1: Github UI
+- **Github UI (set 1):**
+  - Learning videos:
+    - Add video 1 here
+    - Add video 2 here
+    - Add video 3 here
+  - Task:
+    - Add task 1a here <!-- (issue) -->
+    - Add task 1b here <!-- (follow the instruction in task 1a above and solve the issue - updating PR is included here) -->
+    - Add task 2a here <!-- (issue) -->
+    - Add task 2b here <!-- (follow the instruction in task 2a above and solve the issue - All content this time and you are making the branch & PR from scratch, no updating PR except if you make a mistake and revieewer says you should go back) -->
+- **Github UI (set 2)**:
+  - Learning video:
+    - Add video here
+  - Tasks:
+    - Add task 1 here
+    - Add task 2 here
+
+Completing content structure soon
 
 ## Contributors ✨
 
