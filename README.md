@@ -7,25 +7,10 @@ Git & Github training exercises for when interacting with a repository that is n
 ## Introduction
 - Video: Introduction
 ## Part 1: Github UI
-- **Github UI (set 1):**
-  - Learning videos:
-    - Add video 1 here
-    - Add video 2 here
-    - Add video 3 here
-  - Task 1:
-    - a: Add task 1a here <!-- (issue) -->
-    - b: Add task 1b here <!-- (follow the instruction in task 1a above and solve the issue - updating PR is included here) -->
-  - Task 2:
-    - a: Add task 2a here <!-- (issue) -->
-    - b: Add task 2b here <!-- (follow the instruction in task 2a above and solve the issue - All content this time and you are making the branch & PR from scratch, no updating PR except if you make a mistake and revieewer says you should go back) -->
-- **Github UI (set 2)**:
-  - Learning video:
-    - Add video here
-  - Tasks:
-    - Add task 1 here
-    - Add task 2 here
-
-Completing content structure soon
+- Set 1 - Github UI Learning videos and tasks
+- Set 2 - Github UI Learning videos and tasks
+## Part 2: Coming soon
+- Pages coming soon
 
 ## Contributors ✨
 
