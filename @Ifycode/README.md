@@ -1,6 +1,5 @@
-
-# Title: Git & Github training exercises
-**Description**: Git & Github training exercises for when interacting with a repository that is not yours.
+# Title: Git & Github training title
+**Description**: Git & Github training description
 
 ## Section 1: How to submit your changes to this repo with Github UI
 Watch this video to learn how to add content to a repo that is not yours, through the Github UI: [YouTube tutorial](https://www.youtube.com/watch?v=2X1FjFqIwIY).
