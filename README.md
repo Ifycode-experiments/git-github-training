@@ -1,8 +1,8 @@
-# Git & Github training
+# Git and Github training
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Git & Github training videos and exercises to provide an interactive platform, that will help prepare learners for internships and jobs that require the use of git and GitHub. There will be no code-related content, the only type of files the training will use are files with .md extensions. The content of the training will help to understand and practice:
+Git and Github training videos and exercises to provide an interactive platform, that will help prepare learners for internships and jobs that require the use of git and GitHub. There will be no code-related content, the only type of files the training will use are files with .md extensions. The content of the training will help to understand and practice:
 
 - GitHub contributions
 - Use of the Github UI
