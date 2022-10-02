@@ -8,6 +8,7 @@ Git & Github training videos and exercises to provide an interactive platform, t
 - Use of the Github UI
 - Use of command line
 - Git workflow
+- Using Git and github for collaboration
 
 ## Introduction
 - Video: Introduction
