@@ -15,6 +15,7 @@ Git & Github training videos and exercises to provide an interactive platform, t
 ## Part 1: Github UI
 - Set 1 - Github UI Learning videos and tasks
 - Set 2 - Github UI Learning videos and tasks
+- [Any comments or questions? Join Discussion](https://github.com/Ifycode/git-github-training/discussions/79)
 ## Part 2: Coming soon
 - Pages coming soon
 
