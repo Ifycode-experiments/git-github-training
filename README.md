@@ -11,7 +11,7 @@ Git & Github training videos and exercises to provide an interactive platform, t
 - Using Git and github for collaboration
 
 ## Introduction
-- Video: Introduction
+- [Video: Introduction](https://obiagba-mary.gitbook.io/git-and-github-training/#watch-video-introduction)
 ## Part 1: Github UI
 - [Set 1 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-1-github-ui-learning-videos-and-tasks)
 - [Set 2 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-2-github-ui-learning-videos-and-tasks)
