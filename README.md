@@ -16,7 +16,7 @@ Git & Github training videos and exercises to provide an interactive platform, t
 - [Set 1 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-1-github-ui-learning-videos-and-tasks)
 - [Set 2 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-2-github-ui-learning-videos-and-tasks)
 - [Any comments or questions? Join part 1 discussion](https://github.com/Ifycode/git-github-training/discussions/79)
-## Part 2: Coming soon
+## Part 2: Command Line Git
 - Pages coming soon
 
 ## Contributors ✨
