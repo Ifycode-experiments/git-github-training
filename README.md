@@ -19,6 +19,9 @@ Git & Github training videos and exercises to provide an interactive platform, t
 ## Part 2: Command Line Git
 - Pages coming soon
 
+## Wish to contribute?
+Do you wish to contribute to building or improviing the content of the Git and github training resource? Checkout the [contributing guidelines page](https://obiagba-mary.gitbook.io/git-and-github-training/contributors-guide/contributing-guidelines) for how to get started with contributing to the project.
+
 ## Contributors ✨
 Thanks to our wonderful contributors to the [Git & Github training](https://github.com/Ifycode/git-github-training) and [learning resource](https://github.com/Ifycode/git-github-training-resource) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
 
