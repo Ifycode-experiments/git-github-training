@@ -20,14 +20,9 @@ Participating in the Git and Github training will help to understand and solidif
 * Git workflow
 * Using Git and Github for collaboration
 
-## Introduction
-- [Video: Introduction](https://obiagba-mary.gitbook.io/git-and-github-training/#watch-video-introduction)
-## Part 1: Github UI
-- [Set 1 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-1-github-ui-learning-videos-and-tasks)
-- [Set 2 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-2-github-ui-learning-videos-and-tasks)
-- [Any comments or questions? Join part 1 discussion](https://github.com/Ifycode/git-github-training/discussions/79)
-## Part 2: Command Line Git
-- Pages coming soon
+## Where to find training videos
+You can [access the video lectures live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging and explanatory.
+
 
 ## Wish to contribute?
 Do you wish to contribute to building or improviing the content of the Git and github training resource? Checkout the [contributing guidelines page](https://obiagba-mary.gitbook.io/git-and-github-training/contributors-guide/contributing-guidelines) for how to get started with contributing to the project.
