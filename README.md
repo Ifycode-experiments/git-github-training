@@ -2,13 +2,23 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Git & Github training videos and exercises to provide an interactive platform, that will help prepare learners for internships and jobs that require the use of git and GitHub. There will be no code-related content, the only type of files the training will use are files with .md extensions. The content of the training will help to understand and practice:
+> Prerequisite: No knowledge of git and github required.
 
-- GitHub contributions
-- Use of the Github UI
-- Use of command line
-- Git workflow
-- Using Git and github for collaboration
+The Git and GitHub training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
+
+* Hacktoberfest
+* Open source contributions
+* Internships or jobs
+
+This training is free and aims to provide an interactive platform where interested participants will be able to practice what they learn through the provided learning videos. There will be no code-related content, the only type of files the training will use are files with `.md` extensions.
+
+Participating in the Git and Github training will help to understand and solidify your knowledge on the following:
+
+* GitHub contributions
+* Use of the Github UI
+* Use of command line
+* Git workflow
+* Using Git and Github for collaboration
 
 ## Introduction
 - [Video: Introduction](https://obiagba-mary.gitbook.io/git-and-github-training/#watch-video-introduction)
