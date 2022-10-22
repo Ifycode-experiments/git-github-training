@@ -6,4 +6,9 @@ Just watch this video to learn how to add content to a repo that is not yours, t
 
 ## Section 2: Github markdown resources
 The resources below show you how to use markdown:
-This resource tells you [how to format content using github markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) and you can also click this to [download github markdown cheat sheet in pdf](https://ifycode.github.io/git-github-training/markdown-cheatsheet.pdf).
+- [how to format content using github markdown](https://gist.github.com/cuonggt/9b7d08a597b167299f0d) 
+- [download github markdown cheat sheet in pdf](https://ifycode.github.io/git-github-training/markdown-cheatsheet.pdf).
+
+
+
+
