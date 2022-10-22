@@ -1,9 +1,9 @@
-# Git and Github training
+# Git and Github for collaboration training
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> Prerequisite: No knowledge of git and github required.
+> Prerequisite: No knowledge of Git and Github required.
 
 The Git and GitHub for collaboration training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
 
