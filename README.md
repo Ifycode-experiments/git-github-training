@@ -2,22 +2,27 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Git and Github training videos and exercises to provide an interactive platform, that will help prepare learners for internships and jobs that require the use of git and GitHub. There will be no code-related content, the only type of files the training will use are files with .md extensions. The content of the training will help to understand and practice:
 
-- GitHub contributions
-- Use of the Github UI
-- Use of command line
-- Git workflow
-- Using Git and github for collaboration
+> Prerequisite: No knowledge of git and github required.
 
-## Introduction
-- [Video: Introduction](https://obiagba-mary.gitbook.io/git-and-github-training/#watch-video-introduction)
-## Part 1: Github UI
-- [Set 1 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-1-github-ui-learning-videos-and-tasks)
-- [Set 2 - Github UI Learning videos and tasks](https://obiagba-mary.gitbook.io/git-and-github-training/part-1-github-ui/set-2-github-ui-learning-videos-and-tasks)
-- [Any comments or questions? Join part 1 discussion](https://github.com/Ifycode/git-github-training/discussions/79)
-## Part 2: Command Line Git
-- Pages coming soon
+The Git and GitHub training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
+
+* Hacktoberfest
+* Open source contributions
+* Internships or jobs
+
+This training is free and aims to provide an interactive platform where interested participants will be able to practice what they learn through the provided learning videos. There will be no code-related content, the only type of files the training will use are files with `.md` extensions.
+
+Participating in the Git and Github training will help to understand and solidify your knowledge on the following:
+
+* GitHub contributions
+* Use of the Github UI
+* Use of command line
+* Git workflow
+* Using Git and Github for collaboration
+
+## Where to find training videos
+You can [access the video lectures live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging and explanatory.
 
 ## Wish to contribute?
 Do you wish to contribute to building or improviing the content of the Git and github training resource? Checkout the [contributing guidelines page](https://obiagba-mary.gitbook.io/git-and-github-training/contributors-guide/contributing-guidelines) for how to get started with contributing to the project.
