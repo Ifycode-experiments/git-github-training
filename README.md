@@ -5,7 +5,7 @@
 
 > Prerequisite: No knowledge of git and github required.
 
-The Git and GitHub training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
+The Git and GitHub for collaboration training is a series of learning videos and task exercises put together to prepare anyone interested, for activities that could require the use of Git and GitHub like:
 
 * Hacktoberfest
 * Open source contributions
@@ -13,22 +13,23 @@ The Git and GitHub training is a series of learning videos and task exercises pu
 
 This training is free and aims to provide an interactive platform where interested participants will be able to practice what they learn through the provided learning videos. There will be no code-related content, the only type of files the training will use are files with `.md` extensions.
 
-Participating in the Git and Github training will help to understand and solidify your knowledge on the following:
+Participating in the Git and Github for collaboration training will help to understand and solidify your knowledge on the following:
 
 * GitHub contributions
 * Use of the Github UI
 * Use of command line
 * Git workflow
+* Common and best practices
 * Using Git and Github for collaboration
 
 ## Where to find training videos
-You can [access the video lectures live on gitbook](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging and explanatory.
+You can [access the video lectures live on the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging. The gitbook reesource also contains guidance for communicating with the instructor along the way.
 
 ## Wish to contribute?
-Do you wish to contribute to building or improviing the content of the Git and github training resource? Checkout the [contributing guidelines page](https://obiagba-mary.gitbook.io/git-and-github-training/contributors-guide/contributing-guidelines) for how to get started with contributing to the project.
+Do you wish to contribute to building or improving the content of the Git and github for collaboration training resource? Checkout the [contributing guidelines page](https://obiagba-mary.gitbook.io/git-and-github-training/contributors-guide/contributing-guidelines) for how to get started with contributing to the project.
 
 ## Contributors ✨
-Thanks to our wonderful contributors to the [Git & Github training](https://github.com/Ifycode/git-github-training) and [learning resource](https://github.com/Ifycode/git-github-training-resource) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
+Thanks to [our wonderful contributors](https://github.com/Ifycode/git-github-training-resource#contributors-) to the [Git & Github for collaboration training](https://github.com/Ifycode/git-github-training) and [learning resource](https://github.com/Ifycode/git-github-training-resource) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
 
 ## Training participants 🎉
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
