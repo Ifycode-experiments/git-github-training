@@ -7,6 +7,10 @@
 > **Note**
 >
 > This repository is where training participants submit there solutions to, which will be reviewed by the training instructor.
+
+#
+> **Note**
+>
 > You can [access the video lectures live on the gitbook resource](https://obiagba-mary.gitbook.io/git-and-github-training-exercises). You can also access the video content from the [youtube playlist](https://youtube.com/playlist?list=PLMDhbo3xlD1ESa1_9WN4yG7bGDDksEQx7), but we recommend you access the videos from the gitbook resource as it is more engaging. The gitbook resource also contains guidance for communicating with the instructor along the way.
 
 ## Wish to contribute?
@@ -16,6 +20,7 @@ Do you wish to contribute to building or improving the content of the Git and gi
 Thanks to [our wonderful contributors](https://github.com/Ifycode/git-github-training-resource#contributors-) to the [Git & Github for collaboration training](https://github.com/Ifycode/git-github-training) and [learning resource](https://github.com/Ifycode/git-github-training-resource) projects. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. See [emoji key](https://allcontributors.org/docs/en/emoji-key). Contributions of any kind welcome!
 
 ## Training participants 🎉
+These amazing people are either currently taking or have completed the Git and Github for collaboration training. You are welcome to [take the training with us](https://obiagba-mary.gitbook.io/git-and-github-training-exercises).
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
