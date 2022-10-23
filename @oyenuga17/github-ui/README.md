@@ -2,7 +2,8 @@
 **Description**: Git & Github training description
 
 ## Section 1: How to submit your changes to this repo with Github UI
-You can watch this video to learn how to add content to a repo that is not yours, through the Github UI: [YouTube tutorial](https://www.youtube.com/watch?v=2X1FjFqIwIY).
+Just watch this video to learn how to add content to a repo that is not yours, through the Github UI: [YouTube tutorial](https://www.youtube.com/watch?v=2X1FjFqIwIY).
+
 
 ## Section 2: Github markdown resources
 The resources below show you how to use markdown: 
